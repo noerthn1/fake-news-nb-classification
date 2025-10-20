@@ -24,6 +24,8 @@ Dataset: [Kaggle Fake and Real News Dataset](https://www.kaggle.com/datasets/clm
 
 5. **Feature Insights**
    - Visualized top 20 words most associated with *fake* vs *real* news.
+     
+![Fake vs Real words](img/fake_news_chart.png)
 
 ## ⚙️ Tools used
 - Python (Pandas, NumPy)
