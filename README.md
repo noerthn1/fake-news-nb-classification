@@ -4,7 +4,7 @@ This project builds a **Fake News Classifier** using a **Multinomial Naive Bayes
 It predicts whether a news article is *fake* or *real* based on its text content.  
 Dataset: [Kaggle Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 
---
+---
 
 ## 📄 Project Workflow
 
