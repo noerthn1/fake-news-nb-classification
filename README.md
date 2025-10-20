@@ -4,6 +4,8 @@ This project builds a **Fake News Classifier** using a **Multinomial Naive Bayes
 It predicts whether a news article is *fake* or *real* based on its text content.  
 Dataset: [Kaggle Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 
+--
+
 ## 📄 Project Workflow
 
 1. **Data Loading**
@@ -24,8 +26,10 @@ Dataset: [Kaggle Fake and Real News Dataset](https://www.kaggle.com/datasets/clm
 
 5. **Feature Insights**
    - Visualized top 20 words most associated with *fake* vs *real* news.
-     
+--   
 ![Fake vs Real words](img/fake_news_chart.png)
+
+--
 
 ## ⚙️ Tools used
 - Python (Pandas, NumPy)
